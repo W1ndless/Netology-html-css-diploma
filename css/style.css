@@ -257,3 +257,10 @@ a {
     color: #777777;
     padding-bottom: 25px;
 }
+
+.about {
+    display: block;
+    margin: 0 auto ;
+    font-size: 0px;
+    text-align: center;
+}
